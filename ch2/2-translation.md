@@ -5,27 +5,36 @@
  ## Part 6
  
  "Do you remember when he used to come to the Terrace? I wanted to take him fishing but I was too timid to ask him. Then I asked you to ask him and you were too timid."
+ 
  你还记得他一般什么时候来平台呢?我想带他去捕鱼，但我很害羞不敢问他。我让你去问他，你也害羞的不敢问。 
  
  "I know. It was a great mistake. He might have gone with us. Then we would have that for all of our lives."
+ 
  我知道，我犯了个大错误。他本来已经和我们一起了。于是我们可以一辈子都在一起捕鱼了。(不会翻译，凭理解，意译)
  
  "I would like to take the great DiMaggio fishing," the old man said. "They say his father was a fisherman. Maybe he was as poor as we are and would understand."
+ 
  我很想带伟大的DiMaggio一起捕鱼，老人说。据说他父亲也是一名渔夫。他可能和我们一样穷困，窘迫，也能理解我们。 
  
  "The great Sisler's father was never poor and he, the father, was playing in the Big Leagues when he was my age."
+ 
  伟大的Sisler的父亲一点二也不穷，他在我这个年纪时，正和父亲在大联盟打球呢。
  
  "When I was your age I was before the mast on a square rigged ship that ran to Africa and I have seen lions on the beaches in the evening."
+ 
  我在你这个年纪时，我正站在一艘船的桅杆前，桅杆上挂着方形船帆，正驶向非洲，在夜晚我在海滩上看到了一群狮子。
  
  "I know. You told me."
+ 
  我知道，我晓得，你告诉过我了。你讲过了。
  
  "Should we talk about Africa or about baseball?"
+ 
  我们是该聊非洲呢，还是棒球?
  
- "Baseball I think," the boy said. "Tell me about the great John J. McGraw." He said Jota for J.棒球吧，我想，男孩说。给我讲讲伟大的 John J. McGraw。约翰·J·麦格劳。他把Jota叫做J。
+ "Baseball I think," the boy said. "Tell me about the great John J. McGraw." He said Jota for J.
+ 
+ 棒球吧，我想，男孩说。给我讲讲伟大的 John J. McGraw。约翰·J·麦格劳。他把Jota叫做J。
  
  "He used to come to the Terrace sometimes too in the older days. But he was rough and harsh-spoken and difficult when he was drinking. His mind was on horses as well as baseball.
  
@@ -95,7 +104,9 @@ There were other boats from the other beaches going out to sea and the old man h
 其他一些穿也中从别的海滩出海，老人听到了船桨来回滑动的声音，即使他此刻看不到他们，现在月亮还在山峦下面。有时有人会在船上讲话。然而多数渔船除了桨划过水面的声音，一片寂静。这些渔船一旦驶离港口，便各自分开，朝着他们觉得能捕到鱼的海域驶去。老人知道自己要去远海，竟自将陆地的气息留在了身后，向充满清早清爽的海洋气息划去。
 
 
-He saw the phosphorescence of the Gulf weed in the water as he rowed over the part of the ocean that the fishermen called the great well because there was a sudden deep of seven hundred fathoms where all sorts of fish congregated because of the swirl the current made against the steep walls of the flour of the ocean. Here there were concentrations of shrimp and baitfish and sometimes schools of squid in the deepest holes and these rose close to the surface at night where all the wandering fish fed on them.他看到了海水里漩涡鱼苗发出的磷光，当他划过渔民们常说的great well水域时，因为这里有一个骤深的七百英寻深渊，各种各样的鱼在这里欢聚一堂，洋流的漩涡产生了海洋陡峭的水墙壁。这里会有很多的小虾和可做鱼饵的小鱼，有时在最深处也是乌贼，墨鱼，鱿鱼的猎场，晚上它们会游到近水面来，所有徘徊的鱼都在这里等着捕食它们。 
+He saw the phosphorescence of the Gulf weed in the water as he rowed over the part of the ocean that the fishermen called the great well because there was a sudden deep of seven hundred fathoms where all sorts of fish congregated because of the swirl the current made against the steep walls of the flour of the ocean. Here there were concentrations of shrimp and baitfish and sometimes schools of squid in the deepest holes and these rose close to the surface at night where all the wandering fish fed on them.
+
+他看到了海水里漩涡鱼苗发出的磷光，当他划过渔民们常说的great well水域时，因为这里有一个骤深的七百英寻深渊，各种各样的鱼在这里欢聚一堂，洋流的漩涡产生了海洋陡峭的水墙壁。这里会有很多的小虾和可做鱼饵的小鱼，有时在最深处也是乌贼，墨鱼，鱿鱼的猎场，晚上它们会游到近水面来，所有徘徊的鱼都在这里等着捕食它们。 
 
 
 ---
@@ -117,7 +128,9 @@ Some of the younger fishermen, those who used buoys as floats for their lines an
 一些年轻的渔夫，他们用浮标作为他们鱼线的标记，他们有摩托艇，是在买鲨鱼肝能赚很多钱时买的，把她(大海?)称作 el mar，这充满了男子气概，气息。他们也把她当做一名对手或某个地方，甚或一个敌人。然而老人总把她想象为充满女性气质的女子，能够给予或克制很大的便利的充满女性气质的女子，哪怕她做了狂野的或邪恶的事情，那也是因为她情不自禁。在月亮的陪衬下，她显得更像一位女人，他想。
 
 
-He was rowing steadily and it was no effort for him since he kept well within his speed and the surface of the ocean was flat except for the occasional swirls of the current. He was letting the current do a third of the work and as it started to be light he saw he was already further out than he had hoped to be at this hour. I worked the deep wells for a week and did nothing, he thought. Today I'll work out where the schools of bonito and albacore are and maybe there will be a big one with them. Before it was really light he had his baits out and was drifting with the current.他正平稳着划着船，这对他并不费力，因为他能很好的控制速度，海面平静，除了洋流偶尔会产生漩涡。他正借着洋流划船，当他看到一些亮光，他已经比预期的这个时候该到的地方更远了。我以前在一片深水区忙活了一周却一无所获，他想。今天我要去鲣和海产鱼的猎场，或许那里会有大鱼和它们一起。在天真正亮起来之前，他已经弄个把他的鱼饵撒好，它们正飘在洋流上呢。
+He was rowing steadily and it was no effort for him since he kept well within his speed and the surface of the ocean was flat except for the occasional swirls of the current. He was letting the current do a third of the work and as it started to be light he saw he was already further out than he had hoped to be at this hour. I worked the deep wells for a week and did nothing, he thought. Today I'll work out where the schools of bonito and albacore are and maybe there will be a big one with them. Before it was really light he had his baits out and was drifting with the current.
+
+他正平稳着划着船，这对他并不费力，因为他能很好的控制速度，海面平静，除了洋流偶尔会产生漩涡。他正借着洋流划船，当他看到一些亮光，他已经比预期的这个时候该到的地方更远了。我以前在一片深水区忙活了一周却一无所获，他想。今天我要去鲣和海产鱼的猎场，或许那里会有大鱼和它们一起。在天真正亮起来之前，他已经弄个把他的鱼饵撒好，它们正飘在洋流上呢。
 
 
 One bait was down forty fathoms. The second was at seventy-five and the third and fourth were down in the blue water at one hundred and one hundred and twenty-five fathoms. Each bait hung head down with the shank of the hook inside the bait fish, tied and sewed solid and all the projecting part of the hook, the curve and the point, was covered with fresh sardines. Each sardine was hooked through both eyes so that they made a half-gar-land on the projecting steel. There was no part of the hook that a great fish could feel which was not sweet smelling and good tasting. 
@@ -136,16 +149,22 @@ The boy had given him two fresh small tunas, or albacores, which hung on the two
 男孩给了他两条新鲜的金枪鱼和花科水产鱼，他们挂在两条最深的鱼线上，像两只铅垂一样，另外，他还有一条大的蓝鱼和一条黄色的甲壳鱼，之前用过了，但他们还能用，还是会有厉害的沙丁鱼能闻到它们的气味，被它们吸引。
 
 
-Each line, as thick around as a big pencil, was looped onto a green-sapped stick so that any pull or touch on the bait would make the stick dip and each line had two forty-fathom coils which could be made fast to the other spare coils so that, if it were necessary, a fish could take out over three hundred fathoms of line. Now the man watched the dip of the three sticks over the side of the skiff and rowed gently to keep the lines straight up and down and at their proper depths. It was quite light and any moment now the sun would rise. The sun rose thinly from the sea and the old man could see the other boats, low on the water and well in toward the shore, spread out across the current. 每条鱼线，圆又厚，宛如一支粗铅笔，系在一条绿色木棍上，这样一旦鱼饵被拉动，这跟木棍就会碰到水面，每条线都有四十英寻的两个线圈长，这样可以很快的接上其它匀出来的线圈，如果需要，而且咬了钩的鱼可以拖着线游三百英寻。此刻老人看着小船一侧的三根木棍是否浸入了水面，（是否碰了下水面），轻轻划着小船使鱼线直直地保持在适当的深度，位置。天大亮了，此刻太阳也升起来了。太阳从海平面露出尖尖的一头，老人可以看到其它的渔船了，这些渔船低于海面，远离海岸，穿过洋流分散开来。
+Each line, as thick around as a big pencil, was looped onto a green-sapped stick so that any pull or touch on the bait would make the stick dip and each line had two forty-fathom coils which could be made fast to the other spare coils so that, if it were necessary, a fish could take out over three hundred fathoms of line. Now the man watched the dip of the three sticks over the side of the skiff and rowed gently to keep the lines straight up and down and at their proper depths. It was quite light and any moment now the sun would rise. The sun rose thinly from the sea and the old man could see the other boats, low on the water and well in toward the shore, spread out across the current. 
+
+每条鱼线，圆又厚，宛如一支粗铅笔，系在一条绿色木棍上，这样一旦鱼饵被拉动，这跟木棍就会碰到水面，每条线都有四十英寻的两个线圈长，这样可以很快的接上其它匀出来的线圈，如果需要，而且咬了钩的鱼可以拖着线游三百英寻。此刻老人看着小船一侧的三根木棍是否浸入了水面，（是否碰了下水面），轻轻划着小船使鱼线直直地保持在适当的深度，位置。天大亮了，此刻太阳也升起来了。太阳从海平面露出尖尖的一头，老人可以看到其它的渔船了，这些渔船低于海面，远离海岸，穿过洋流分散开来。
 
 
 **【困惑&难点】**low on the water and well in toward the shore，spread out across the current.如何翻译？
 
 
-Then the sun was brighter and the glare came on the water and then, as it rose clear, the flat sea sent it back at his eyes so that it hurt sharply and he rowed without looking into it. He looked down into the water and watched the lines that went straight down into the dark of the water. He kept them straighter than anyone did, so that at each level in the darkness of the stream there would be a bait waiting exactly where he wished it to be for any fish that swam there. Others let them drift with the current and sometimes they were at sixty fathoms when the fishermen thought they were at a hundred. But, he thought, I keep them with precision.这时太阳闪闪发亮，刺眼的光照在海面上，完全升了起来。平平的海面把阳光反射进老人的眼睛，深深的刺痛了老人的眼睛，他划着船不看海面。他向水下面看下去，看着鱼线，直直地伸向了黑漆漆的水下。这些鱼线更加笔直了，这点他比其它任何人多做的好，这样做的好处就是，能确保水面下黑暗处不同的高度，都会有鱼饵确切的分布在他期望的位置，等待着游过这些地方的任何一条鱼。其它人会让鱼线随着洋流漂浮着，有时，它们在六十英寻的地方，而他们还以为它们在一百英寻的地方。但，他想着，我就是要让他们保持在精确的位置。
+Then the sun was brighter and the glare came on the water and then, as it rose clear, the flat sea sent it back at his eyes so that it hurt sharply and he rowed without looking into it. He looked down into the water and watched the lines that went straight down into the dark of the water. He kept them straighter than anyone did, so that at each level in the darkness of the stream there would be a bait waiting exactly where he wished it to be for any fish that swam there. Others let them drift with the current and sometimes they were at sixty fathoms when the fishermen thought they were at a hundred. But, he thought, I keep them with precision.
+
+这时太阳闪闪发亮，刺眼的光照在海面上，完全升了起来。平平的海面把阳光反射进老人的眼睛，深深的刺痛了老人的眼睛，他划着船不看海面。他向水下面看下去，看着鱼线，直直地伸向了黑漆漆的水下。这些鱼线更加笔直了，这点他比其它任何人多做的好，这样做的好处就是，能确保水面下黑暗处不同的高度，都会有鱼饵确切的分布在他期望的位置，等待着游过这些地方的任何一条鱼。其它人会让鱼线随着洋流漂浮着，有时，它们在六十英寻的地方，而他们还以为它们在一百英寻的地方。但，他想着，我就是要让他们保持在精确的位置。
 
 
-Only I have no luck any more. But who knows? Maybe today. Every day is a new day. It is better to be lucky. But I would rather be exact. Then when luck comes you are ready. The sun was two hours higher now and it did not hurt his eyes so much to look into the east. There were only three boats in sight now and they showed very low and far inshore. All my life the early sun has hurt my eyes, he thought. Yet they are still good. In the evening I can look straight into it without getting the blackness. It has more force in the evening too. But in the morning it is painful.难道我再也不会有好运了。但谁知道呢？或许就今天。每天都是新的一天。交到好运固然好。但我宁愿把鱼线布置在精确的位置。这样好运来临时，你就准备好了。又过了两个小时，太阳现在升的更高了。向东望去，阳光也不那么刺眼。目前视野所及，只有三条船，它们看着距海面更低，距离海岸也更远了。我早年的生活中，太阳光一直在伤害我的眼睛，他想。然而眼睛还是很好。晚上我可以直直地看到海面下，而不是一团漆黑。晚上我会看的更清楚。但早上看东西会有点疼。
+Only I have no luck any more. But who knows? Maybe today. Every day is a new day. It is better to be lucky. But I would rather be exact. Then when luck comes you are ready. The sun was two hours higher now and it did not hurt his eyes so much to look into the east. There were only three boats in sight now and they showed very low and far inshore. All my life the early sun has hurt my eyes, he thought. Yet they are still good. In the evening I can look straight into it without getting the blackness. It has more force in the evening too. But in the morning it is painful.
+
+难道我再也不会有好运了。但谁知道呢？或许就今天。每天都是新的一天。交到好运固然好。但我宁愿把鱼线布置在精确的位置。这样好运来临时，你就准备好了。又过了两个小时，太阳现在升的更高了。向东望去，阳光也不那么刺眼。目前视野所及，只有三条船，它们看着距海面更低，距离海岸也更远了。我早年的生活中，太阳光一直在伤害我的眼睛，他想。然而眼睛还是很好。晚上我可以直直地看到海面下，而不是一团漆黑。晚上我会看的更清楚。但早上看东西会有点疼。
 
 
 Just then he saw a man-of-war bird with his long black wings circling in the sky ahead of him. He made a quick drop, slanting down on his back-swept wings, and then circled again. "He's got something," the old man said aloud. "He's not just looking." He rowed slowly and steadily toward where the bird was circling. He did not hurry and he kept his lines straight up and down. But he crowded the current a little so that he was still fishing correctly though faster than he would have fished if he was not trying to use the bird.
@@ -162,6 +181,7 @@ He went back to rowing and to watching the long-winged black bird who was workin
 
 **【困惑&难点】**文本对比时，体会限定性形容词性从句和非限定性形容词从句的翻译。watching the long-winged black bird who was working,
 
+太阳光照进水里产生的奇异光速，而且现在太阳也升的更高了，这些都意味着好天气，还有内陆上方云朵的形状。但此刻几乎看不到鸟儿了，水面上除了一些黄色的斑块，太阳晒白了的海草种子以及一个葡萄牙军人坐在一个紫色的，正式的，变色的胶状袋子上漂浮在一艘船旁边，除此之外，也什么都看不到了。它转了个身，然后又转回来。它像个泡沫一般心甘情愿的飘着，在水面上拖了一条长长的深紫色的细细的涟漪。
 
 他返回去继续划船，并看着长尾黑鸟，此刻，它正在捕食，贴着水面飞行。当他正看到这只鸟又贴了下水面，倾斜着翅膀钻进水面，然后狂乱徒劳地摆动着翅膀，紧跟着飞鱼。老人能够看到水面有轻微的凸起，这是那只大海豚正在追踪逃跑的鱼，升上水面时造成的。海豚正在从睡下切断鱼的航行路线，然后当鱼的速度变慢，游不动时，加速抓住它。
 
@@ -182,7 +202,6 @@ The strange light the sun made in the water, now that the sun was higher, meant 
 **【困惑&难点】**But the bird was almost out of sight now and nothing showed on the surface of the water but some patches of yellow, sun-bleached Sargasso weed and the purple, formalized, iridescent, gelatinous bladder of a Portuguese man of war floating close beside the boat.一堆前置，或后置形容词，形容词短语修饰一个中心名词时如何翻译，断句，词序如何排列。
 
 
-太阳光照进水里产生的奇异光速，而且现在太阳也升的更高了，这些都意味着好天气，还有内陆上方云朵的形状。但此刻几乎看不到鸟儿了，水面上除了一些黄色的斑块，太阳晒白了的海草种子以及一个葡萄牙军人坐在一个紫色的，正式的，变色的胶状袋子上漂浮在一艘船旁边，除此之外，也什么都看不到了。它转了个身，然后又转回来。它像个泡沫一般心甘情愿的飘着，在水面上拖了一条长长的深紫色的细细的涟漪。
 
 
 ---
